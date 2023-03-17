@@ -1,1 +1,1 @@
-echo "my new readme C"
+hello sounia
