@@ -1,3 +1,8 @@
+/*
+ * File: 0-positive_or_negative.c
+ * Auth: Sounia
+ */
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
