@@ -1,5 +1,5 @@
-#ifndef INV_MAIN_H
-#define INV_MAIN_H
+#ifndef MAIN_H
+#define MAIN_H
 
 int _putchar(char);
 
